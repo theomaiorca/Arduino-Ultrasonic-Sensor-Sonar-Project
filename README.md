@@ -1,4 +1,6 @@
 # Arduino-Ultrasonic-Sensor-Sonar-Project
+Project done mostly during freshman year of college, 2024
+
 Measuring distance with ultrasonic sensor, converting to inches, displaying distance on lcd, setting trigger distance with buzzer and live plotting distance on graph
 
 graph can be found in serial plotter of arduino ide.
